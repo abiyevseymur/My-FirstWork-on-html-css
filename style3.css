@@ -1,0 +1,166 @@
+.main {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.head {
+    width: 1170px;
+    height: 50px;
+    background: black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.logo .logotext {
+    float: left;
+    height: 50px;
+    margin: 0 50px;
+    font-size: 25px;
+    color: #cac5c5;
+    padding: 10px;
+}
+
+.menu ul {
+    margin-top: 0px;
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    display: inline;
+}
+
+.menu ul li a {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0 auto;
+    padding: 10px 15px;
+}
+
+.menu ul li a:hover {
+    background: silver;
+    border-radius: 50px;
+}
+
+.slider {
+    height: 200px;
+    background: silver;
+}
+
+.slidetext {
+    color: #545353;
+    float: left;
+    height: 50px;
+    margin: 50px 150px;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.news {
+    padding-right: 20px;    
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 370px;
+}
+
+.first {
+    float: left;
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+    border: 1px solid #545151;
+}
+
+.first p {
+    margin: 0px 10px;
+    padding-top: 90px;
+    text-align: justify;
+}
+
+.first span {
+    border-bottom: 1px solid #545151;   
+    background: silver;
+    padding: 5px 0;
+    float: left;
+    text-align: center;
+    width: 350px;       
+}
+
+.first1 {
+    float: left;
+    width: 350px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background: silver;
+}
+
+.cleaer {
+    clear: both;
+}
+.portfolio {
+    height: 620px;
+}
+.features {
+    height: 585px;  
+
+}
+.gallery{
+    color: #7b7b7b;
+    text-align: center;
+    padding-top: 80px;
+}
+.features p{
+    width: 500px;
+    height: 350px;
+    font-size: 20px;
+    display: inline-block;
+}
+.img {
+    float: right;
+    width: 600px;
+    height: 300px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background: silver; 
+}
+.gallery1 {    
+    color: #7b7b7b;
+    text-align: center;
+    padding-top: 120px;
+}
+.buttomtext {
+    height: 100px;
+    border: 1px solid #6d6b6b;
+    background: silver;
+}
+.buttomtext h3{
+    width: 800px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #525050;
+    display: inline-block;
+}
+.button {
+    float: right;
+}
+.button button{
+    float: right;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-right: 60px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.footer h4{
+    color:#525050;
+    margin-left: 30px;
+}
